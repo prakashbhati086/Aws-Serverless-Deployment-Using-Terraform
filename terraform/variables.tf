@@ -11,13 +11,7 @@ variable "project_name" {
 }
 
 variable "environment" {
-  description = "Environment (dev, staging, prod)"
+  description = "Environment"
   type        = string
   default     = "dev"
-}
-
-variable "domain_name" {
-  description = "Custom domain name (optional)"
-  type        = string
-  default     = ""
 }
