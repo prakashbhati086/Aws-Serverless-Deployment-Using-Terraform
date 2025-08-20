@@ -240,3 +240,7 @@ PRs welcome. Please run:
 npm run lint (if configured)
 
 terraform fmt && terraform validate
+
+
+now maybe destroyed 
+ terraform destroy  (to avoid charges)
