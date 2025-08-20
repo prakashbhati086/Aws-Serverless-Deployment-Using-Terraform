@@ -1,0 +1,70 @@
+Node.js (frontend and backend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+Vite/React build outputs
+frontend/dist/
+frontend/.vite/
+frontend/.cache/
+
+Environment files (do not commit secrets)
+.env
+.env.*
+!.env.example
+
+Logs
+logs/
+.log
+.log.
+npm-error.log
+
+OS / Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.tmp
+.idea/
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+Terraform
+terraform/.terraform/
+terraform/.terraform.lock.hcl
+terraform/tfplan
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+terraform/.tfstate
+terraform/.tfstate.backup
+terraform/crash.log
+terraform/override.tf
+terraform/override.tf.json
+terraform/_override.tf
+terraform/_override.tf.json
+
+Lambda build artifacts
+terraform/lambda.zip
+
+AWS/CLI local files
+.aws/
+*.pem
+
+Coverage / test artifacts (if you add tests later)
+coverage/
+.nyc_output/
+
+Misc cache
+*.cache
+.cache/
+tmp/
+temp/
+

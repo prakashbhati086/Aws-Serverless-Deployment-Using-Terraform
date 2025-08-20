@@ -1,0 +1,10 @@
+{
+  "name": "aws-serverless-app-deploy-backend",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.600.0"
+  }
+}
