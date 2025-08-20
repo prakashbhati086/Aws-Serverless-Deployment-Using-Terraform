@@ -37,7 +37,7 @@ Thumbs.db
 !.vscode/tasks.json
 !.vscode/launch.json
 
-Terraform
+
 terraform/.terraform/
 terraform/.terraform.lock.hcl
 terraform/tfplan
