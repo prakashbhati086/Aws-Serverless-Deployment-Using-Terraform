@@ -13,6 +13,6 @@ Hosted on S3 + CloudFront
 
 Live demo
 
-Frontend: https://d18df0n5tiv9r2.cloudfront.net//
+Frontend: https://d18df0n5tiv9r2.cloudfront.net/
 
 API:  https://xxxxx.execute-api.us-east-1.amazonaws.com
